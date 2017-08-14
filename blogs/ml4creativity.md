@@ -1,6 +1,6 @@
 ## ML4Creativity - Workshop @ KDD-2017, Halifax, Canada
 
-Located in a suite facing the scenic ocean, this workshop started very early in the morning at 8am. We had four interesting and highly diverse keynote talks,
+Located in a suite facing the scenic ocean, this workshop started very early in the morning at 8am. We had four interesting and highly diverse (Gaming, Flavours, Fragrance, Culture ... ) keynote talks,
 <ul>
 <li><a href="">Mark Riedl</a>, <i>Learning to Make Stuff</i>  </li>
 </ul> 
@@ -44,8 +44,23 @@ Along with the keynotes, we had four interesting (not so diverse!) oral presenta
 ![](../pictures/anush.jpg)
 
 
+## Key Observations
 
+Some of the key observations, learnings, and take-aways, that are learnt from this workshop are:
 
+<ol>
+<li>Definition of Computational Creativity is still open!</li>
+<li>All the four oral papers were related to story generation!</li>
+<li>Context is the key for getting creative!</li>
+<li>Automated evaluation is hard. Human evaluation is still the practice!</li>
+<li>Current applications of machine learning are design aides and not designers</li>
+<li>Creativity at industry/ enterprise scale is highly challenging</li>
+<li>Culture has huge implications in building creative systems!</li>
+<li>Goal formulation and curiosity are essential for creative AI systems</li>
+<li>Intentionality is critical for creative work</li>
+</ol>
+
+Having said that, it was really an exciting couple of hours. Learnt a lot about different applications and implications of creative systems, that would have taken weeks for me to catch up browsing through literature. Looking forward to meeting all those interesting folks again, soon! 
 
 
 
