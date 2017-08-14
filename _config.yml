@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: ThinkML
 description: My thoughts on Machine Learning and Related.
+show_downloads: false
