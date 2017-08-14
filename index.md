@@ -14,4 +14,4 @@ In this blog post, I share my summary of this workshop, along with some interest
 
 To make deep learning approachable and accessible to a larger developer audience, or even to non-experts, we at IBM Research, India have launched a new IDE for deep learning called [DARVIZ](http://darviz.mybluemix.net/).
 
-[Read More >](blogs/ml4creativity.md)
+[Read More >](blogs/darviz.md)
