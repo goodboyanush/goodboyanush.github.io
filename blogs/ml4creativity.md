@@ -9,6 +9,8 @@ Located in a suite facing the scenic ocean, this workshop started very early in 
 <li><a href="">Nick Montfort</a>, <i>C-Creativity</i></li>
 </ul> 
 
+![](../pictures/mark_riedl.jpg)
+
 Along with the keynotes, we had four interesting (not so diverse!) oral presentations,
 <ul>
 <li><a href="https://ml4creativity.mybluemix.net/papers/MartinEtAl-Event_Representations_for_Automated_Story-camera_ready.pdf">Event Representations for Automated Story Generation with Deep Neural Nets</a></li>
