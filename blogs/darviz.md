@@ -18,7 +18,9 @@ DARVIZ stands for Deep Abstract Representation, Visualization, and Verification.
 
 Further, researchers often are interested in plugging in the publicly shared implementations in their code base. However, due to availability of various libraries and programming languages the simple task of plugging-in might be challenging. For example, a public implementation of a face recognition algorithm might be available in CAFFE, while, the user might be interested in a Tensorflow implementation of the same. In DARVIZ, one can import the code written in CAFFE (prototxt files) and export it the same code in Tensorflow. This has potentials of faster code adaptation for wider audience. 
 
-![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=Kpn6YMijMrg&)
+![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=Kpn6YMijMrg)
+
+[![DARVIZ Demo](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=Kpn6YMijMrg "Everything Is AWESOME")
 
 ## How to access?
 
