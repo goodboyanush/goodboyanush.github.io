@@ -20,7 +20,13 @@ Further, researchers often are interested in plugging in the publicly shared imp
 
 ## DARVIZ Demo
 
-> [DARVIZ Demo](https://www.youtube.com/watch?v=Kpn6YMijMrg)
+> [Implement DeepID paper using DARVIZ](https://www.youtube.com/watch?v=Kpn6YMijMrg)
+
+> [DeepID Caffe Code to DARVIZ](https://www.youtube.com/watch?v=zQjzWWZsQn8)
+
+> [Tanmay Teaches: Using IBM DARVIZ as a Deep Learning IDE!](https://www.youtube.com/watch?v=mmRw_MuMPC4)
+
+> [IBM DARVIZ - A Platform Independent UI for Deep Learning](https://www.youtube.com/watch?v=GICAnqhvO0I)
 
 ## How to access?
 

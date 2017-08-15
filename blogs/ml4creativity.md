@@ -44,7 +44,7 @@ Along with the keynotes, we had four interesting (not so diverse!) oral presenta
 ![](../pictures/anush.jpg)
 
 
-## Key Observations
+## Key Observations as an Audience:
 
 Some of the key observations, learnings, and take-aways, that are learnt from this workshop are:
 
@@ -60,7 +60,17 @@ Some of the key observations, learnings, and take-aways, that are learnt from th
 <li>Intentionality is critical for creative work</li>
 </ol>
 
-Having said that, it was really an exciting couple of hours. Learnt a lot about different applications and implications of creative systems, that would have taken weeks for me to catch up browsing through literature. Looking forward to meeting all those interesting folks again, soon! 
+## Key Learnings as an Organizer:
+
+<ol>
+<li>Number of paper submissions < < Number of attendees! Though there is an explicit interest in the community, far few papers flow by in the broader field of computational creativity, due to the inherent challenging nature of the problem</li>
+<li>Most of the papers were around story generation, due to the availability of public datasets. Hence, public benchmark data is imperative to perform research in this domain.</li>
+<li>There is a huge gap between the artistic interpretation and the computational interpretation of creativity! This is the first problem that needs to be addressed in this community.</li>
+<li>Evaluation is highly subjective and biased. More often, evaluation criteria are made flexible to show enhanced results.</li>
+<li>Most logical path ahead would be to invest time in creative a huge benchmark dataset and organize a competation/ cup in the next conference!</li>
+</ol>
+
+Having said these, it was really an exciting couple of hours. Learnt a lot about different applications and implications of creative systems, that would have taken weeks for me to catch up browsing through literature. Looking forward to meeting all those interesting folks again, soon! 
 
 
 
