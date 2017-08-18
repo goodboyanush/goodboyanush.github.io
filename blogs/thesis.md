@@ -1,6 +1,6 @@
 ## PhD Thesis
 
-On this August (10th) occasion, I defended my seven-year-long PhD thesis titled, "**Learning Representations for Matching Fingerprint Variants**" (I should probably write a seperate thesis explaning the process and the previous names considered, before arriving at this title!). 
+On this August (10th) occasion, I defended my seven-year-long PhD thesis titled, "**Learning Representations for Matching Fingerprint Variants**" (I should probably write a seperate thesis explaining the process and the previous names considered, before arriving at this title!). 
 
 The defense was chaired by some of the most revered and accomplished professors in this domain,
 1. [Prof. Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en), UNIBO
@@ -12,6 +12,8 @@ along with my thesis advisors,
 2. [Dr. Richa Singh](https://www.iiitd.edu.in/~richa/), IIIT Delhi
 
 ## Thesis and Slides
+
+> Digitical copy of the thesis from IIIT Delhi Library [Link](https://repository.iiitd.edu.in/xmlui/handle/123456789/512)
 
 > Learning Representations for Matching Fingerprint Variants [PDF](../docs/Thesis_Anush_1.pdf)
 
