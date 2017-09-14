@@ -1,11 +1,3 @@
-## Natural Language Regression using DARVIZ
-
-While working with natural langauge processing, we often come across the task of predicting a continuous valued integer output for a given input sentence. This includes tasks such as (i) sentiment prediction for a statement, (ii) impact prediction of a title, (iii) grammatical correctness of a sentence, (iv) importance of a tweet, and many more. This is commonly called as natural language regression.
-
-In this blog post, I share a cool way to visually design deep learning models for such tasks, in less than two minutes!
-
-[Read More >](blogs/darviz_text_regression.md)
-
 ## Cats Vs. Dogs using DARVIZ
 
 Does the given image contains a cat or a dog? Complex and deep learning models have tried to solve this daunting task for over a decade now! How do you develop and implement such complex deep learning models?
@@ -14,7 +6,6 @@ In this blog post, I share a cool way to visually design deep learning models fo
 
 [Read More >](blogs/darviz_cats_dogs.md)
 
-
 ## Semantic Sentence Similarity Models using DARVIZ
 
 Given two sentences, how semantically similar are the two sentences? This is a common task in natural language processing. Deep learning has produced some state-of-the-art results in the task of semantic sentence similarity.
@@ -22,6 +13,15 @@ Given two sentences, how semantically similar are the two sentences? This is a c
 In this blog post, I share a cool way to visually design deep learning models for such tasks, in less than two minutes!
 
 [Read More >](blogs/darviz_text_classification.md)
+
+## Natural Language Regression using DARVIZ
+
+While working with natural langauge processing, we often come across the task of predicting a continuous valued integer output for a given input sentence. This includes tasks such as (i) sentiment prediction for a statement, (ii) impact prediction of a title, (iii) grammatical correctness of a sentence, (iv) importance of a tweet, and many more. This is commonly called as natural language regression.
+
+In this blog post, I share a cool way to visually design deep learning models for such tasks, in less than two minutes!
+
+[Read More >](blogs/darviz_text_regression.md)
+
 
 ## ML4Creativity - Workshop @ KDD-2017, Halifax, Canada
 
