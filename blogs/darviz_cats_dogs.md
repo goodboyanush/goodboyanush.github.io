@@ -49,6 +49,6 @@ Steps to use this design:
 4. Edit the design visually and Save the design
 5. Go to the **Create Source Code** page. Generate the source code for the design you created in the library of your choice!
 
-That's it! Deep learning development is that simple now!
+That's it! Deep learning development is that simple now! Once you have downloaded the source, you can execute it any machine (GPU/ CPU) that have!
 
 View and comments, please reach out to us at, ibmdarviz@gmail.com
