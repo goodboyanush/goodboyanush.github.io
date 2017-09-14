@@ -1,3 +1,11 @@
+## Semantic Sentence Similarity Models using DARVIZ
+
+Given two sentences, how semantically similar are the two sentences? This is a common task in natural language processing. Deep learning has produced some state-of-the-art results in the task of semantic sentence similarity.
+
+In this blog post, I share a cool way to visually design deep learning models for such tasks, in less than two minutes!
+
+[Read More >](blogs/darviz_text_classification.md)
+
 ## ML4Creativity - Workshop @ KDD-2017, Halifax, Canada
 
 The first workshop on Machine Learning for Creativity (ML4Creativity) was co-hosted with KDD-2017, held at Halifax, Nova Scotia. I was one of the co-organizers of this exciting workshop along with my colleageus from IBM Research, Sony CSL, Google Brain, and UIUC.

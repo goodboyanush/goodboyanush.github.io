@@ -16,6 +16,7 @@ Consider the following example to explain what semantic sentence similarity mean
 | as holy as       | as sacred as        | 1                |
 | My name is Anush | I am a good boy     | 0                |
 
+
 Two sentences may not have the same vocabulary words or may not have the same lexical structure. Still, when we read the sentence, we know, that they have the same semantic meaning due to the presence of synonyms. Such semantically similar sentences can be marked as **1**. While semantically non-similar sentences are marked as **0**
 
 ## How to address this problem?
@@ -54,9 +55,9 @@ A sentence similarity model designed using DARVIZ is shown below:
 
 ![](../pictures/darviz1.png)
 
-> [Model Design](../resources/sentence_similarity.dz)
+> Download the above [Model Design](../resources/sentence_similarity.dz)
 
-> [Sample Data](../resources/sentence_similarity_data.txt)
+> Download [Sample Data](../resources/sentence_similarity_data.txt) for above model
 
 Steps to use this design:
 
