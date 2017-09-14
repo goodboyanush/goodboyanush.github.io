@@ -1,0 +1,4 @@
+"China-u.s. and","sino-us and",1
+"fast , easy and","quick , easy and",1
+"quick , easy and","fast , easy and",1
+"as holy as","as sacred as",1
