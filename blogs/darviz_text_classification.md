@@ -31,7 +31,7 @@ The reason for the success of deep learning in such tasks is because of the foll
 
 1. Distributional representation of language: Using a big corpus of text documents, distributional learning helps us to learn global deep relationship among the words. Just an abstract example - the reason a particular word occured in the fourth line of a document, may be semantically related to the first line.
 2. Word embeddings: Following distributional hypothesis, an word embedding step provides a **fixed-length** representation for every word in our document corpus. Further, unique property is that semantically similary words, such as pizza and pasta, will have very similar representations.
-3. Sentence embedddings: Going from words to sentences, it is essential to maintain the syntactic structure and not just the semantic meaning. A recurrent neural network uses the word embeddings obtained in the previous step to obtain a **fixed-length** representation for the whole sentence and not just a word;
+3. Sentence embedddings: Going from words to sentences, it is essential to maintain the syntactic structure and not just the semantic meaning. A recurrent neural network uses the word embeddings obtained in the previous step to obtain a **fixed-length** representation for the whole sentence and not just a word.
 
 ## How to implement this algorithm
 
@@ -67,7 +67,7 @@ Steps to use this design:
 4. Edit the design visually and Save the design
 5. Go to the **Create Source Code** page. Generate the source code for the design you created in the library of your choice!
 
-That's it! Deep learning development is that simple now!
+That's it! Deep learning development is that simple now! Once you have downloaded the source, you can execute it any machine (GPU/ CPU) that have!
 
 View and comments, please reach out to us at, ibmdarviz@gmail.com
 
