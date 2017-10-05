@@ -25,6 +25,10 @@
                 Stylesheets
         ==========================================--> 
         
+        <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+        <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
         <!-- MATERIALIZE CORE CSS -->
         <link href="../assets/css/materialize.min.css" rel="stylesheet">
         
@@ -68,7 +72,23 @@
         
     </head>
     <body>
-        <!-- Start Container-->
+
+        <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }} </h2>
+        
+          <a href="http://darviz.mybluemix.net/#/" class="button"> DARVIZ <small>IDE for Deep Learning</small></a>
+
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <!-- Start Container-->
         <div class="container">
             <!-- row -->
             <div class="row">
@@ -95,10 +115,10 @@
                                     <div class="nav-wrapper">
                                       <ul id="nav-mobile" class="side-nav">                                  
                                         <li><a href="../docs/Anush_resume_IBM_2016.pdf">Resume</a></li>                                        
-                                        <li><a href="darviz.md">DARVIZ</a></li>
-                                        <li><a href="ml4creativity.md">ML4Creativity</a></li>
-                                        <li><a href="talks.md">Talks</a></li>
-                                        <li><a href="../index.md">Blog</a></li>
+                                        <li><a href="darviz.html">DARVIZ</a></li>
+                                        <li><a href="ml4creativity.html">ML4Creativity</a></li>
+                                        <li><a href="talks.html">Talks</a></li>
+                                        <li><a href="../index.html">Blog</a></li>
                                       </ul>
                                       <a href="#" data-activates="nav-mobile" class="button-collapse  "><i class="mdi-navigation-menu"></i></a>
                                     </div>
@@ -458,11 +478,29 @@ Maria De Marsico, Michele Nappi and Hugo Proenca
         <!-- Customized js -->
         <script src="../assets/js/init.js"></script>
     
-        <!-- =========================================================
-            STYLE SWITCHER | ONLY FOR DEMO NOT INCLUDED IN MAIN FILES
-        ===========================================================-->
-        
+        </section>
 
+        <aside id="sidebar">
+            <h2>Latest news</h2>
+            <ul>
+              <li>Aug '17: Travelling to SIGKDD-2017, Canada. Co-organizing a workshop on <a href="https://ml4creativity.mybluemix.net/">Machine Learning for Creativity</a></li>
+              <br />
+              <li>Aug '17: Defended my PhD Thesis titled "Learning Representations for Matching Fingerprint Variants" <a href="../blogs/thesis.html">Read More ></a></li>
+            </ul>
+            
+            <br />
+            <h2> Talks </h2>
+            <a href="../blogs/talks.html">Read More ></a></li>
+
+            <br />
+            <br />
+            <h2> Author </h2>
+            <h2> Anush Sankaran </h2>
+            <a href="../blogs/bio.html">About me ></a></li>
+
+        </aside>
+      </div>
+    </div>
 
     </body>
 </html>
