@@ -1,3 +1,35 @@
+## [Nov '17] What the fun is Deep Learning ?
+
+Deep Learning - basics to advanced and how can we make our life easy with DARVIZ.
+
+[Presentation >](../docs/DL_SKIT.ppt)
+
+> ![](../pictures/talk11.jpg)
+
+## [Aug '17] Watson Made Simple with Tanmya Bhakshi
+
+4th episode of "Watson Made Simple", joined with @TajyMany to explain how Deep Learning Models can be built without writing any code using DARVIZ. The episode was aired live in  @IBM Facebook page (https://www.facebook.com/IBM ). 
+
+[Video link >](https://www.facebook.com/IBM/videos/1465876830169261/)
+
+> ![](../pictures/talk10.jpg)
+
+## [Aug '17] Hosting and Speaking in ML4Creativity Workshop at SIGKDD 2017
+
+Hosting the workshop on "Machine Learning for Creativity" along with colleagues from Google Brain, Sony CSL, IBM Research, and TJ Watson. 
+
+[Read More >](blogs/ml4creativity.md)
+
+> ![](../pictures/talk9.jpg)
+
+## [Aug '17] Defending my PhD Thesis
+
+Defending my PhD Thesis, titled "Learning Representations for Fingerprint Variants". 
+
+[Read More >](blogs/thesis.md)
+
+> ![](../pictures/thesis2.JPG)
+
 ## [Jul '17] IEEE Make in India Entrepreneurship Bootcamp
 
 A highly interactive session on "Deep learning made easy with DARVIZ" with a curated list of 30 startups in Bengaluru, India.
