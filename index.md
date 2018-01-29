@@ -1,3 +1,7 @@
+## DLPaper2Code
+
+[Read More >](blogs/dlpaper2code.md)
+
 ## Cats Vs. Dogs using DARVIZ
 
 Does the given image contains a cat or a dog? Complex and deep learning models have tried to solve this daunting task for over a decade now! How do you develop and implement such complex deep learning models?
