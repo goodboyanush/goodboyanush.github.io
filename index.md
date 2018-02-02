@@ -1,5 +1,11 @@
 ## DLPaper2Code
 
+Q1: How often do you read a research paper discussing a deep learning algorithm ? 
+
+Q2: How much time does it take for you to understand the research paper? 
+
+Q3: Assuming that you are successful in understanding the paper, how much time does it take for you to implement the paper in a single library?
+
 [Read More >](blogs/dlpaper2code.md)
 
 ## Cats Vs. Dogs using DARVIZ
