@@ -16,7 +16,7 @@ This is our goal in our research paper published in the  AAAI Conference on Arti
 
 =====================================
 
-### IBM Deep Learning IDE (DL-IDE)
+## IBM Deep Learning IDE (DL-IDE)
 
 Along with this, we have built our easy-to-use, intuitive IDE for deep learning called -[IBM Deep Learning IDE (DL-IDE)](https://dlide.mybluemix.net/). Play around with it - lots of cool features secretly built into it and lot more coming! 
 
@@ -28,7 +28,7 @@ Watch the video here -
 
 =====================================
 
-### AAAI 2018 Presence
+## AAAI 2018 Presence
 
 I am presenting four of our research papers in #AAAI2018, New Orleans ([AAAI](https://aaai.org/Conferences/AAAI-18/))
 
