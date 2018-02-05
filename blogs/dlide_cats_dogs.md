@@ -1,4 +1,4 @@
-# DARVIZ - A Visual IDE for Deep Learning
+# DL-IDE - A Visual IDE for Deep Learning
 
 ## Cats vs. Dogs Classification
 One of the most daunting tasks for AI over the past decade is to be able to distinguish between the image of a cat and the image of a dog (satire intended!). The problem statement that we are trying to solve is, 
@@ -29,9 +29,9 @@ You are free to learn anyone (or all) these libraries and write 100's of lines o
 
 What if I tell you, that you need not learn any of these libraries but still you can design a catsVssDogs model in just two minutes! Yahooooo!
 
-Welcome you all to [DARVIZ](http://darviz.mybluemix.net/) ... A visual programming IDE for deep learning models. Design your deep learning model and extract the code in either Keras or Caffe today!
+Welcome you all to [DL-IDE](http://dlide.mybluemix.net/) ... A visual programming IDE for deep learning models. Design your deep learning model and extract the code in either Keras or Caffe today!
 
-A highly complex deep learning model designed using DARVIZ for catsVs.Dogs task is shown below:
+A highly complex deep learning model designed using DL-IDE for catsVs.Dogs task is shown below:
 
 ![](../pictures/darviz2.png)
 
@@ -44,11 +44,9 @@ A highly complex deep learning model designed using DARVIZ for catsVs.Dogs task 
 Steps to use this design:
 
 1. Download the [Model Design](../resources/cats_vs_dogs.dz)
-2. Login to [DARVIZ](http://darviz.mybluemix.net/) using your Gmail ID
+2. Login to [DL-IDE](http://dlide.mybluemix.net/) using your Gmail ID
 3. Go to the **Create Design** page. On the right top corner of the Editor window, click on Properties -> Import From -> Darviz representation
 4. Edit the design visually and Save the design
 5. Go to the **Create Source Code** page. Generate the source code for the design you created in the library of your choice!
 
 That's it! Deep learning development is that simple now! Once you have downloaded the source, you can execute it any machine (GPU/ CPU) that have!
-
-View and comments, please reach out to us at, ibmdarviz@gmail.com

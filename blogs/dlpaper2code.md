@@ -14,23 +14,25 @@ Q5: Assuming that you implemented the research paper in multiple libraries, how 
 
 This is our goal in our research paper published in the  AAAI Conference on Artificial Intelligence (AAAI-18) called "[DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers](https://www.ibm.com/blogs/research/2018/02/deep-learning-models/)"
 
+Please find the [poster here](../resources/darviz_DLpaper2code_v3.pdf), that we presented in AAAI-2018 conference.
+
+Please note that this feature is an initial proof of concept, and is not yet available as a system for open consumption.
+
 =====================================
 
 ## IBM Deep Learning IDE (DL-IDE)
 
 Along with this, we have built our easy-to-use, intuitive IDE for deep learning called -[IBM Deep Learning IDE (DL-IDE)](https://dlide.mybluemix.net/). Play around with it - lots of cool features secretly built into it and lot more coming! 
 
-Watch the video here -  
+Watch the demo video here for the existing features and features to come -  
 
 [![Watch Video on DL-IDE](https://img.youtube.com/vi/k-UygtFy8Q8/0.jpg)](https://www.youtube.com/watch?v=k-UygtFy8Q8)
-
-
 
 =====================================
 
 ## AAAI 2018 Presence
 
-I am presenting four of our research papers in #AAAI2018, New Orleans ([AAAI](https://aaai.org/Conferences/AAAI-18/))
+I am presenting four papers (1 AAAI, 1 IAAI, 2 Technical Demo) in #AAAI2018, New Orleans ([AAAI](https://aaai.org/Conferences/AAAI-18/))
 
 For more information on the papers, visit [IBM Research AI Blog](https://www.ibm.com/blogs/research/2018/02/ibm-research-ai-aaai18/)
 
