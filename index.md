@@ -14,7 +14,7 @@ Given an image containing a face image, how to automatically recognize the ident
 
 In this blog post, I share a cool way to visually design deep learning models for such tasks, in less than two minutes!
 
-[Read More >](blogs/dlide_cats_dogs.md)
+[Read More >](blogs/dlide_face_recognition.md)
 
 ## Cats Vs. Dogs using DL-IDE
 
