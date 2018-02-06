@@ -1,3 +1,25 @@
+## [Feb '18] AAAI-18 Presentation
+
+Presented our AAAI-18 paper on "DLPaper2Code : Auto-generation of Code from Deep Learning Research Papers" and our demo paper on "Democratization of Deep Learning using DARVIZ" (now called, IBM Deep Learning IDE).
+
+> ![](../pictures/aaai18_1.jpg)
+
+> ![](../pictures/aaai18_2.jpg)
+
+> ![](../pictures/aaai18_3.jpg)
+
+
+## [Feb '18] IAAI Oral Presentation
+
+Presented our IAAI-18 paper on "Hi, how can I help you?: Automating enterprise IT support help desks". Got the deployed system recognition award in the conference!
+
+> ![](../pictures/iaai18_1.jpg)
+
+> ![](../pictures/iaai18_2.jpg)
+
+> ![](../pictures/iaai18_3.jpg)
+
+
 ## [Nov '17] What the fun is Deep Learning ?
 
 Deep Learning - basics to advanced and how can we make our life easy with DARVIZ.
