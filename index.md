@@ -1,6 +1,12 @@
+## A Journey from Weekend Project to Watson Product
+
+Everyone of us have hobby projects and weekend hack nights. Sometimes outside work we try to pursue our passions and keep our tech hunger satisfied. What if your hobby becomes your full time work, your passion earns you money, and you could do all of these without the need to do a startup? Here is a short journey of how one of my weekend project evolved slowly and steadily into a mature project and got integrated into Watson Studio.
+
+[Read More >](blogs/journey.md)
+
 ## DLPaper2Code
 
-Q1: How often do you read a research paper discussing a deep learning algorithm ? 
+Q1: How often do you read a research paper discussing a deep learning algorithm ?
 
 Q2: How much time does it take for you to understand the research paper? 
 
