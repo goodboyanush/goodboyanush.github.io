@@ -55,7 +55,7 @@ The product was a huge success. Almost everyone who attended the summer school a
 7. On 3rd June, conducted a one hour session as well as a demonstration booth at "IEEE-IISc Deep Learning Summit" held at IISC
 8. On May 8th, conducted a one hour session to about 80 grad students and software engineers at the computer science department at IISC.
 9. On 13th July, conducted a one hour industry session at "Summer School on Machine Learning" held at IIIT Hyderabad. More than 100 grad students, professors, industry practitioners from India attended that event.
-10. On Aug 28, in the 4th episode of "Watson Made Simple" with Tanmya Bhakshi, co-presented in an IBM Facebook live event on Deep Learning development using DARVIZ. https://www.facebook.com/IBM/videos/1465876830169261/ 
+10. On Aug 28, in the 4th episode of "Watson Made Simple" with Tanmya Bhakshi, co-presented in an IBM Facebook live event on Deep Learning development using DARVIZ. [Link to the Video](https://www.facebook.com/IBM/videos/1465876830169261/) 
 11. On 16th December, conducted a tutorial, “The Journey from Shallow to Deep Learning” at NCVPRIPG 2017 with Dr. Aditya Nigam and Dr. Chandra Mouli.
 12. On Feb 1st week 2018, presented DARVIZ in multiple avenues in the  AAAI 2018 conference.
 
@@ -73,13 +73,13 @@ Looking back, this evolution from the simple tool that I built over a couple of 
 
 A couple of external posts on `Neural Network Modeller (NNM)`:
 
-* Blog post on NNM: https://medium.com/ibm-watson/accelerate-your-deep-learning-experiments-with-ibms-neural-network-modeler-dd0c92fba814
+* Blog post on NNM: [Link](https://medium.com/ibm-watson/accelerate-your-deep-learning-experiments-with-ibms-neural-network-modeler-dd0c92fba814)
 
-* A small video tutorial on NNM: https://medium.com/ibm-watson/ibm-watson-studio-in-10-videos-6acf96cc60 
+* A small video tutorial on NNM: [Link](https://medium.com/ibm-watson/ibm-watson-studio-in-10-videos-6acf96cc60)
 
-* Use NNM here: https://datascience.ibm.com/
+* Use NNM here: [Link](https://datascience.ibm.com/)
 
-* More info on Watson Studio: https://medium.com/ibm-watson/introducing-ibm-watson-studio-e93638f0bb47
+* More info on Watson Studio: [Link](https://medium.com/ibm-watson/introducing-ibm-watson-studio-e93638f0bb47)
 
 The entire team of `IBM Deep Learning IDE`:
 
