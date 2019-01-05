@@ -1,3 +1,9 @@
+## Automated Bug Triaging
+
+The process of bug triaging consists of multiple steps where the first step primarily involves assigning the bug to one of the developers who has the expertise to solve the bug. In large scale systems, with high rates of incoming bugs, manually analyzing and triaging a bug report is laborious. Thus, can this process of bug triaging be automated?
+
+[Read More >](blogs/bugtriaging.md)
+
 ## A Journey from Weekend Project to Watson Product
 
 Everyone of us have hobby projects and weekend hack nights. Sometimes outside work we try to pursue our passions and keep our tech hunger satisfied. What if your hobby becomes your full time work, your passion earns you money, and you could do all of these without the need to do a startup? Here is a short journey of how one of my weekend project evolved slowly and steadily into a mature project and got integrated into Watson Studio.
