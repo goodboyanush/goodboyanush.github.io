@@ -2,9 +2,9 @@
 
 Yet another homecoming! Ten year before I was sitting in the same auditorium, as a student, listening to different workshop. Now, I am the presenter in the same annual workshop series, with lots of young energetic minds listening to my tutorial on "Deep Learning with Watson Studio"
 
-> ![](../pictures/talk13.JPG)
+> ![](../pictures/talk13.jpg)
 
-> ![](../pictures/talk14.JPG)
+> ![](../pictures/talk14.jpg)
 
 
 ## [July '18] NNM with Watson Studio 
