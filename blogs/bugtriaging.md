@@ -24,7 +24,7 @@ So, can we automate this process of bug triaging?
 
 This is the goal of our research paper published in the  CoDS-COMAD 2019 "[DeepTriage: Exploring the Effectiveness of Deep Learning for Bug Triaging](https://arxiv.org/abs/1801.01275)".
 
-Please find the [poster here](../resources/DeepTriage.pdf), that we presented in AAAI-2018 conference. Also, the data and the initial version of the code is available [here](http://bugtriage.mybluemix.net/).
+Please find the [poster here](../resources/DeepTriage.pdf), that we presented in CoDS-COMAD 2019 conference. Also, the data and the initial version of the code is available [here](http://bugtriage.mybluemix.net/).
 
 Please note that this feature is an initial proof of concept, and is not yet available as a system for open consumption.
 
