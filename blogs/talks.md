@@ -1,3 +1,19 @@
+## [Sept '18] Workshop on Deep Learning
+
+Yet another homecoming! Ten year before I was sitting in the same auditorium, as a student, listening to different workshop. Now, I am the presenter in the same annual workshop series, with lots of young energetic minds listening to my tutorial on "Deep Learning with Watson Studio"
+
+> ![](../pictures/talk13.JPG)
+
+> ![](../pictures/talk14.JPG)
+
+
+## [July '18] NNM with Watson Studio 
+
+Presented “NNM with Watson Studio” and GAN Toolkit at IEEE bootcamp at BMSCE - Bangalore
+
+> ![](../pictures/talk12.JPG)
+
+
 ## [Feb '18] AAAI-18 Presentation
 
 Presented our AAAI-18 paper on "DLPaper2Code : Auto-generation of Code from Deep Learning Research Papers" and our demo paper on "Democratization of Deep Learning using DARVIZ" (now called, IBM Deep Learning IDE).
