@@ -2,7 +2,7 @@
 
 When I am having an unplanned holiday, I tend to have some time for myself - to think about my past, my present, and maybe my future. Especially, when I am having an unplanned holiday because I fell sick, I will reach my heights of introspection. The result of such a deep introspection is the ...
 
-[Read More >](blogs/bugtriaging.md)
+[Read More >](blogs/what_am_i_doing.md)
 
 ## Automated Bug Triaging
 
