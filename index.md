@@ -1,3 +1,9 @@
+## What am I Doing in Research?
+
+When I am having an unplanned holiday, I tend to have some time for myself - to think about my past, my present, and maybe my future. Especially, when I am having an unplanned holiday because I fell sick, I will reach my heights of introspection. The result of such a deep introspection is the ...
+
+[Read More >](blogs/bugtriaging.md)
+
 ## Automated Bug Triaging
 
 The process of bug triaging consists of multiple steps where the first step primarily involves assigning the bug to one of the developers who has the expertise to solve the bug. In large scale systems, with high rates of incoming bugs, manually analyzing and triaging a bug report is laborious. Thus, can this process of bug triaging be automated?
