@@ -1,3 +1,21 @@
+## [Mar '19] First Teaching Presentation
+
+My formal teaching course on Visual Recognition for graduates students at IIIT Bangalore.
+
+> ![](../pictures/talk17.jpeg)
+
+## [Mar '19] The Path Not Taken
+
+The challenges and paths not taken in Deep Learning research, at NWIMI workshop in IIT Jodhpur.
+
+> ![](../pictures/talk16.jpeg)
+
+## [Jan '19] Session Chair in CoDS-COMAD 2019
+
+Held a session, with invited talk by Nitendra Rajput, in CoDS-COMAD, Jan 2019 at Kolkota.
+
+> ![](../pictures/talk15.jpeg)
+
 ## [Sept '18] Workshop on Deep Learning
 
 Yet another homecoming! Ten year before I was sitting in the same auditorium, as a student, listening to different workshop. Now, I am the presenter in the same annual workshop series, with lots of young energetic minds listening to my tutorial on "Deep Learning with Watson Studio"
