@@ -15,7 +15,7 @@
     margin-bottom: 3px!important;
     border: 1px solid #eee;
     display: inline-block;
-    font-size: 10px;
+    font-size: 22px;
 }
 
 .sidebar-social a {
@@ -24,8 +24,7 @@
     align-items: center;
     justify-content: center;
     padding: 10px;
-    font-size: 14px;
-    color: #444;
+    font-size: 22px;
     text-decoration: none;
 }
 
@@ -38,9 +37,9 @@
     color: #444444;
 }
 
-.sidebar-social a i.fa-facebook:hover { color: #00ABE3; }
-.sidebar-social a i.fa-twitter:hover { color:#00ABE3 }
-.sidebar-social a i.fa-instagram:hover { color:#00ABE3 }
+.sidebar-social a i.fa-facebook:hover { color: #FF0000; }
+.sidebar-social a i.fa-twitter:hover { color:#FF0000 }
+.sidebar-social a i.fa-instagram:hover { color:#FF0000 }
 .sidebar-social a i.fa-pinterest:hover { color:#FF0000 }
 .sidebar-social a i.fa-google-plus:hover { color:#cb2027 }
 .sidebar-social a i.fa-flickr:hover { color:#FF57AE }
