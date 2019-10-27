@@ -36,7 +36,7 @@ References and they have better slides! With huge respects to their slides, hard
   - **When**: October/ November 2019
   - **Who**: Anush Sankaran, IBM Research AI
 
-> ![](../pictures/talk17.jpeg)
+> ![](../pictures/Picture_20.jpeg)
 
 ### Course Overview
 
