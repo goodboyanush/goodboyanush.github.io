@@ -33,15 +33,16 @@
     font-size: 22px;
 }
 
-.sidebar-social a i.fa-facebook:hover { color: #FF0000; }
-.sidebar-social a i.fa-twitter:hover { color:#FF0000 }
-.sidebar-social a i.fa-instagram:hover { color:#FF0000 }
+.sidebar-social a i.fa-comments-o:hover { color: #FF0000; }
+.sidebar-social a i.fa-leanpub:hover { color:#00ABE3 }
+.sidebar-social a i.fa-book:hover { color:#FFD400 }
 .sidebar-social a i.fa-pinterest:hover { color:#FF0000 }
 .sidebar-social a i.fa-google-plus:hover { color:#cb2027 }
-.sidebar-social a i.fa-flickr:hover { color:#FF57AE }
+.sidebar-social a i.fa-graduation-cap:hover { color:#FF57AE }
 .sidebar-social a i.fa-500px:hover { color:#00ABE3 }
 .sidebar-social a i.fa-youtube:hover { color:#FF1F25 }
 .sidebar-social a i.fa-behance:hover { color:#FF57AE }
+
 
 /*
 Original - as is
