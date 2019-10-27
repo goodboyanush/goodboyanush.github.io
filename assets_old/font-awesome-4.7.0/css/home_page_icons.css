@@ -6,13 +6,13 @@
 
 .sidebar-social ul {
     margin: 0;
-    padding: 5px;
+    padding: 10px;
 }
 
 .sidebar-social li {
     text-align: center;
     width: 20%;
-    margin-bottom: 3px!important;
+    margin-bottom: 10px!important;
     display: inline-block;
     font-size: 22px;
 }
@@ -20,7 +20,7 @@
 .sidebar-social a {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     padding: 10px;
     font-size: 22px;
