@@ -6,8 +6,9 @@
 
 .sidebar-social ul {
     margin: 0;
-    padding: 10px;
+    padding: 5px;
 }
+
 
 .sidebar-social li {
     text-align: center;
@@ -20,9 +21,9 @@
 .sidebar-social a {
     display: flex;
     flex-direction: column;
-    align-items: left;
+    align-items: center;
     justify-content: center;
-    padding: 5px;
+    padding: 10px;
     font-size: 22px;
     text-decoration: none;
 }
