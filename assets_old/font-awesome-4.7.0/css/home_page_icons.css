@@ -13,7 +13,55 @@
     width: 20%;
     margin-bottom: 3px!important;
     display: inline-block;
-    font-size: 14px;
+    font-size: 22px;
+}
+
+.sidebar-social a {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.sidebar-social i {
+    line-height: 32px;
+    text-align: center;
+    font-size: 230px;
+}
+
+.sidebar-social a i.fa-facebook:hover { color: #00ABE3 }
+.sidebar-social a i.fa-twitter:hover { color:#00ABE3 }
+.sidebar-social a i.fa-instagram:hover { color:#FFD400 }
+.sidebar-social a i.fa-pinterest:hover { color:#FF0000 }
+.sidebar-social a i.fa-google-plus:hover { color:#cb2027 }
+.sidebar-social a i.fa-flickr:hover { color:#FF57AE }
+.sidebar-social a i.fa-500px:hover { color:#00ABE3 }
+.sidebar-social a i.fa-youtube:hover { color:#FF1F25 }
+.sidebar-social a i.fa-behance:hover { color:#FF57AE }
+
+/*
+Original - as is
+https://stackoverflow.com/questions/41285466/how-do-i-add-add-text-below-font-awesome-icon-links/41285702
+
+.sidebar-social {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-social ul {
+    margin: 0;
+    padding: 5px;
+}
+
+.sidebar-social li {
+    text-align: center;
+    width: 31.9%;
+    margin-bottom: 3px!important;
+    background-color: #fff;
+    border: 1px solid #eee;
+    display: inline-block;
+    font-size: 10px;
 }
 
 .sidebar-social a {
@@ -23,6 +71,8 @@
     justify-content: center;
     padding: 10px;
     font-size: 14px;
+    color: #444;
+    text-decoration: none;
 }
 
 .sidebar-social i {
@@ -31,6 +81,7 @@
     line-height: 32px;
     text-align: center;
     font-size: 20px;
+    color: #444444;
 }
 
 .sidebar-social a i.fa-facebook:hover { color: #FF0000; }
@@ -42,3 +93,5 @@
 .sidebar-social a i.fa-500px:hover { color:#00ABE3 }
 .sidebar-social a i.fa-youtube:hover { color:#FF1F25 }
 .sidebar-social a i.fa-behance:hover { color:#FF57AE }
+
+*/
