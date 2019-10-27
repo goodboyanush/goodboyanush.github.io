@@ -10,7 +10,7 @@
 
 .sidebar-social li {
     text-align: center;
-    width: 31.9%;
+    width: 20%;
     margin-bottom: 3px!important;
     display: inline-block;
     font-size: 14px;
@@ -23,8 +23,6 @@
     justify-content: center;
     padding: 10px;
     font-size: 14px;
-    color: #444;
-    text-decoration: none;
 }
 
 .sidebar-social i {
@@ -33,7 +31,6 @@
     line-height: 32px;
     text-align: center;
     font-size: 20px;
-    color: #444444;
 }
 
 .sidebar-social a i.fa-facebook:hover { color: #FF0000; }
