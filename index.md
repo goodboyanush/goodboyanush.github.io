@@ -1,3 +1,9 @@
+## Democratization of Deep Learning - #NeurIPS 2019
+
+Deep learning is one of the most penetrating technologies into various domains, problem areas, and challenges. However, whether you are a student, or a practictioner, or a researcher, or a software engineer, or a business user, you must have asked one of the following questions, or faced one of the following challenges.
+
+[Read More >](blogs/neurips2019.md)
+
 ## What am I Doing in Research?
 
 When I am having an unplanned holiday, I tend to have some time for myself - to think about my past, my present, and maybe my future. Especially, when I am having an unplanned holiday because I fell sick, I will reach my heights of introspection. The result of such a deep introspection is the ...
