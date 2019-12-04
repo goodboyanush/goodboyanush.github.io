@@ -1,6 +1,8 @@
 # Democratization of Deep Learning - #NeurIPS 2019
 
-![](../pictures/blogvision.png)
+<p align="center">
+<img src="../pictures/blogvision.png" height="250" /> 
+</p>
 
 Deep learning is one of the most penetrating technologies into various domains, problem areas, and challenges. However, whether you are a student, or a practictioner, or a researcher, or a software engineer, or a business user, you must have asked one of the following questions, or faced one of the following challenges:
 
