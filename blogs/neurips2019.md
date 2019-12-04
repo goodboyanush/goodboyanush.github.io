@@ -50,6 +50,6 @@ I will be attending NeurIPS 2019 conference and I am very enthusiastic in discus
 
 More information about [What am I Doing in Research?](https://goodboyanush.github.io/blogs/what_am_i_doing.html)
 
-More information about me, can be found here - [Think ML](https://goodboyanush.github.io/blogs/bio.html). 
+More information about me, can be found here - [Think ML](https://goodboyanush.github.io). 
 
 Do not hesitate to reach out to me!
