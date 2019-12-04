@@ -48,4 +48,8 @@ Researchers work with popular benchmark datasets (such as, MNIST, CIFAR10 etc.).
 
 I will be attending NeurIPS 2019 conference and I am very enthusiastic in discussing my reseach with others and also, building usable systems that could democratize deep learning! 
 
-More information about me and my research, can be found [here](https://goodboyanush.github.io/blogs/bio.html). Do not hesitate to reach out to me!
+More information about [What am I Doing in Research?](https://goodboyanush.github.io/blogs/what_am_i_doing.html)
+
+More information about me, can be found here - [Think ML](https://goodboyanush.github.io/blogs/bio.html). 
+
+Do not hesitate to reach out to me!
